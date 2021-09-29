@@ -6,9 +6,11 @@
 
 ## Introduction
 
-[Foam](https://foambubble.github.io/) is a personal knowledge management and sharing system for VS Code. I use it for writing, organizing, and keeping re-discoverable my notes.
+[Foam](https://foambubble.github.io/) is a personal knowledge management and sharing system for VS Code. I use it for writing, organizing, and keeping re-discoverable my notes. 📓
 
-This is my first try, I'll use [[getting-started]] to get familiar with my new knowledge base!
+This is my first try, I'll use [[getting-started]] to get familiar with my new knowledge base — it's still under construction. 🌱
+
+By the way, my main site is [here](https://www.uniqiao.com/). 🌐
 
 ## Bubbles
 
