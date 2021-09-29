@@ -6,7 +6,7 @@ Welcome to your new foam workspace, let's get you started.
 
 Let's go through this to set up your repo:
 
-- [ ] if you are new with VsCode, see how to [[get-started-with-vscode]] and how to [[use-keyboard-shortcuts-for-editing]]
+- [ ] if you are new with VS Code, see how to [[get-started-with-vscode]] and how to [[use-keyboard-shortcuts-for-editing]]
 
 - [ ] you can navigate the links between your notes by `cmd+click` (or `ctrl+click` on Windows) on a wiki link. You can go back with `ctrl+-`. Here, go to your [[inbox]]
 
@@ -22,7 +22,7 @@ Let's go through this to set up your repo:
 
 - [ ] Want to see how to manage your tasks? Go to the [[todo]] note
 
-- [ ] The section at the end of this file contains wikilink definitions, which enable navigation of your notes from GitHub's web UI, and in general to make `[[wikilinks]]` understood by any markdown parser. See [[link-reference-definitions]].
+- [ ] The section at the end of this file contains wikilink definitions, which enable navigation of your notes from GitHub's web UI, and in general to make `[[wikilinks]]` understood by any Markdown parser. See [[link-reference-definitions]].
 
 - [ ] To explore all the Foam settings, press `cmd+,`, then `Extensions > Foam`
 
