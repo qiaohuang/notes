@@ -1,5 +1,7 @@
 # Hypothesis Testing
 
+- Degrees of Freedom: DF = N - P. Where N = sample size, P = the number of parameters or relationships.
+
 ## Assumptions
 
 - Random sampling
