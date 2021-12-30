@@ -20,3 +20,16 @@ Music is about the second life, the life of imagination.
 - Pop music often has a strong beat; classical music may be more subdued.
 - Pop music is often short and repetitious.
 - Pop music is often performed without musical notation; classical music is often performed with a score.
+
+### Music and Emotions
+
+Music is the poetry of the air. Indeed, music can move us. Music can manipulate us. Advertisers and marketing people know this. They use music to persuade us to buy something.
+
+### How Do We Hear Music? Sound Waves and the Ear
+
+Maybe the brain is as mysterious as music itself.
+
+- Neurotransmitters are stimulated when listen to music.
+- Neurotransmitters excite or inhibit neighboring cells; they also control the release of chemicals such as dopamine and glutamates that affect our emotional response to music.
+
+Neuroscientists have discovered that music has the same effect as “other euphoria-inducing stimuli, such as food, sex, and drugs of abuse” (I’m not kidding). So that's interesting. Music is like candy for the mind. So don't take drugs, listen to music. It's a lot better for you.
