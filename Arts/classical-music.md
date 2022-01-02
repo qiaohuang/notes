@@ -33,3 +33,22 @@ Maybe the brain is as mysterious as music itself.
 - Neurotransmitters excite or inhibit neighboring cells; they also control the release of chemicals such as dopamine and glutamates that affect our emotional response to music.
 
 Neuroscientists have discovered that music has the same effect as “other euphoria-inducing stimuli, such as food, sex, and drugs of abuse” (I’m not kidding). So that's interesting. Music is like candy for the mind. So don't take drugs, listen to music. It's a lot better for you.
+
+Music does effect our brain and causes us to feel the way we do when listen to it. We have a direct physiological response to music.
+
+### Why We Like What We Like?
+
+How do we get the musical template (the musical expectations that we have when we come to listen to a piece of music)? Two ways: through nurture and through nature.
+
+- It's Nurture. We like what we like because we've heard it all our lives. We are comfortable with it, it is comforting to us.
+- It's Nature.
+  - A couple of rules for the syntax of Western music.
+    - Leading Tone: Pulls toward the Home Pitch or Tonic.
+    - Large Leap: A Large leap is reversed by the following pitch.
+    - Harmony: The Harmony must fit with the Melody.
+    - Chord Progression: The Harmonies usually return home to tonic.
+  - Principals about the physics of music that apply to all musical cultures.
+
+![amplitude-frequency](amplitude-frequency.jpg)
+
+[Strauss: Also Sprach Zarathustra](https://courses.lumenlearning.com/musicapp_historical/chapter/strausss-also-sprach-zarathustra/)
